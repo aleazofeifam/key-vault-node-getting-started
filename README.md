@@ -97,10 +97,12 @@ Here we install the dependencies. Run the following commands
     cd key-vault-node-quickstart
     npm install
 
-This project used 2 node modules:
+This project used 4 node modules:
 
-* [ms-rest-azure](https://www.npmjs.com/package/ms-rest-azure) 
-* [azure-keyvault](https://www.npmjs.com/package/azure-keyvault)
+* [MS Rest Azure: ](https://www.npmjs.com/package/ms-rest-azure) npm install ms-rest-azure.  
+* [Azure Key Vault Keys:](https://www.npmjs.com/package/@azure/keyvault-keys) npm install @azure/keyvault-keys  
+* [Azure Key Vault Secrets: ](https://www.npmjs.com/package/@azure/keyvault-secrets) npm install @azure/keyvault-secrets 
+* [Azure Key Vault Certificates: ](https://www.npmjs.com/package/@azure/keyvault-certificates)npm install @azure/keyvault-certificates 
 
 ## Publish the web application to Azure
 
